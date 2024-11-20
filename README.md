@@ -1,6 +1,6 @@
 # Always Night Mod for 7 Days to Die
 
-This mod for **7 Days to Die** forces the in-game world to stay at night, ensuring that the player experiences a permanent nighttime environment. This is ideal for players who want a more challenging and atmospheric game where they don't have to wait for the sun to set or rise.
+This mod for **7 Days to Die** forces the in-game world to stay at night, ensuring that the player experiences a permanent nighttime environment. This is ideal for players who want a more challenging and atmospheric game
 
 ## Features
 
