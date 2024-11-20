@@ -15,10 +15,21 @@ This mod for **7 Days to Die** forces the in-game world to stay at night, ensuri
 
 ## Installation
 
-1. Download the mod `.dll` file and place it into the **Mods** folder of your 7 Days to Die installation directory:
-   - `7DaysToDie/Mods/AlwaysNight/`
-2. Make sure **Harmony** is installed and working as the mod relies on it.
-3. Run the game, and the mod will automatically set the world time to night.
+1. **Download the mod**:  
+   [Click here to download the mod](#) scroll around for a release that suits you
+
+2. **Clone or download this repository** to your computer.
+
+3. **Copy the mod files**:  
+   Copy the folders downloaded from this repository and place it in your **7 Days to Die Mods** folder, making sure it is unzipped .  
+   By default, the Mods folder is located here:  
+   `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`
+
+4. **Install Harmony Library**:  
+   This mod requires **Harmony** to patch the game. Ensure that **Harmony** is included in your mod's folder or otherwise use the one added to the mod download.
+
+5. **Launch the game**:  
+   Start **7 Days to Die**. The mod will automatically be applied.
 
 ## How It Works
 
