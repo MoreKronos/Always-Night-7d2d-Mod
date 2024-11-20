@@ -69,8 +69,3 @@ This mod uses the [Harmony](https://github.com/pardeike/Harmony) library to patc
 This mod is released under the **MIT License**. Feel free to use, modify, and distribute it, as long as you credit the original author.
 
 ---
-
-## Contact
-
-For any questions, issues, or feature requests, feel free to open an issue in the GitHub repository, or reach out via [email](mailto:your-email@example.com).
-
