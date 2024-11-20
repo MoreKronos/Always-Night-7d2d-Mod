@@ -6,7 +6,6 @@ This mod for **7 Days to Die** forces the in-game world to stay at night, ensuri
 
 - Forces the world time to remain at **night**.
 - The mod is fully compatible with other mods that do not interfere with the time system.
-- Configurable (optional): Change the night duration or world time based on your preference.
 
 ## Requirements
 
