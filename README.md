@@ -16,7 +16,7 @@ This mod for **7 Days to Die** forces the in-game world to stay at night, ensuri
 ## Installation
 
 1. **Download the mod**:  
-   [Click here to download the mod](#) scroll around for a release that suits you
+   [Click here to download the mod]([#](https://github.com/MoreKronos/Always-Night-7d2d-Mod/releases)) scroll around for a release that suits you
 
 2. **Clone or download this repository** to your computer.
 
